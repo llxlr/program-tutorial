@@ -1,4 +1,4 @@
-![cover](_images/python (1).svg)
+![cover](_images/python1.svg)
 
 # Python基础教程及进阶
 
