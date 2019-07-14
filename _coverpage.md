@@ -1,12 +1,12 @@
-![cover](_images/logo1.svg)
+![cover](_images/python.svg)
 
-# 树莓派官方文档中文版
+# Python基础教程及进阶
 
-> A magical documentation site.
+> Easy Awesome Magical
 
-* 纯属个人兴趣翻译
-* 抽出打游戏的时间
-* 专心致志地去摸鱼
+* 初学手册
+* 进阶指南
+* 爱好收藏
 
 [开始](#首页)
 [Github](https://github.com/jamesyangget/)
